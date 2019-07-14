@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2eeff59-5f91-4d93-9c10-2c3a30c8eed7" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/CSS/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -15,19 +14,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="178">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="283">
+              <caret line="32" column="43" selection-start-line="32" selection-start-column="43" selection-end-line="32" selection-end-column="43" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Style.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CSS/Style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
+            <state relative-caret-position="420">
               <caret line="28" column="16" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
             </state>
           </provider>
@@ -56,8 +55,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/JS/GameController.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/CSS/Style.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -176,12 +175,12 @@
       <option name="presentableId" value="Default" />
       <updated>1562600687298</updated>
       <workItem from="1562600692829" duration="524000" />
-      <workItem from="1563073709885" duration="2622000" />
+      <workItem from="1563073709885" duration="3587000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3146000" />
+    <option name="totallyTimeSpent" value="4111000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="662" y="118" width="606" height="523" extended-state="0" />
@@ -200,7 +199,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.43729374" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.034653466" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -245,17 +244,17 @@
     <entry file="file://$PROJECT_DIR$/JS/GameController.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/CSS/Style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="420">
+          <caret line="28" column="16" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CSS/Style.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="28" column="16" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
+        <state relative-caret-position="283">
+          <caret line="32" column="43" selection-start-line="32" selection-start-column="43" selection-end-line="32" selection-end-column="43" />
         </state>
       </provider>
     </entry>
