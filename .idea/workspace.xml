@@ -2,7 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2eeff59-5f91-4d93-9c10-2c3a30c8eed7" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/CSS/homecss.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home Page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/321103.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/444287004.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/46585bcf8acc040.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/586614427d90850fc3ce2a63.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/600x600bb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/645987.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/92GUYO.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cat-cartoon-wallpaper-hd-001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/images.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/kisspng-bob-the-minion-sticker-minions-drawing-the-walt-di-minion-5abb7670b77238.1293043215222349927514.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/kisspng-fastpitch-softball-cartoon-baseball-clip-art-cartoon-softball-5a75a90f994a64.6794191615176604316279.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/minions-wallpaper-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/minions-wallpapers-29741-6873185.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/preview-637482E3duBV7cp-low_0014.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JS/GameController.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/GameController.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,8 +36,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-144">
-              <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+            <state relative-caret-position="435">
+              <caret line="29" column="19" lean-forward="true" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -26,8 +45,17 @@
       <file leaf-file-name="Style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CSS/Style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="680">
-              <caret line="68" column="19" selection-start-line="68" selection-start-column="19" selection-end-line="68" selection-end-column="19" />
+            <state relative-caret-position="452">
+              <caret line="74" column="19" lean-forward="true" selection-start-line="74" selection-start-column="19" selection-end-line="74" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Home Page.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Home Page.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -35,13 +63,40 @@
       <file leaf-file-name="GameController.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/JS/GameController.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2715">
-              <caret line="232" lean-forward="true" selection-start-line="232" selection-end-line="232" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state relative-caret-position="363">
+              <caret line="244" column="72" selection-start-line="244" selection-start-column="72" selection-end-line="244" selection-end-column="72" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="kisspng-bob-the-minion-sticker-minions-drawing-the-walt-di-minion-5abb7670b77238.1293043215222349927514.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/kisspng-bob-the-minion-sticker-minions-drawing-the-walt-di-minion-5abb7670b77238.1293043215222349927514.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="kisspng-fastpitch-softball-cartoon-baseball-clip-art-cartoon-softball-5a75a90f994a64.6794191615176604316279.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/kisspng-fastpitch-softball-cartoon-baseball-clip-art-cartoon-softball-5a75a90f994a64.6794191615176604316279.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="minions-wallpaper-7.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/minions-wallpaper-7.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="minions-wallpapers-29741-6873185.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/minions-wallpapers-29741-6873185.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="preview-637482E3duBV7cp-low_0014.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/preview-637482E3duBV7cp-low_0014.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="images.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/images.png">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -49,11 +104,16 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaScript File" />
         <option value="HTML File" />
         <option value="CSS File" />
-        <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>restart_btn</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -61,8 +121,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/CSS/homecss.css" />
+        <option value="$PROJECT_DIR$/Home Page.html" />
         <option value="$PROJECT_DIR$/CSS/Style.css" />
+        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/JS/GameController.js" />
       </list>
     </option>
@@ -73,13 +135,22 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="114" />
+    <option name="y" value="25" />
     <option name="width" value="596" />
     <option name="height" value="523" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -95,6 +166,16 @@
             <path>
               <item name="Jquery game" type="b2602c69:ProjectViewProjectNode" />
               <item name="Jquery game" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Jquery game" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Jquery game" type="462c0819:PsiDirectoryNode" />
+              <item name="CSS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Jquery game" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Jquery game" type="462c0819:PsiDirectoryNode" />
+              <item name="JS" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -113,6 +194,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -187,39 +269,39 @@
       <workItem from="1563182201541" duration="47000" />
       <workItem from="1563182439478" duration="973000" />
       <workItem from="1563183485755" duration="1252000" />
-      <workItem from="1563267337549" duration="5399000" />
+      <workItem from="1563267337549" duration="15949000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14292000" />
+    <option name="totallyTimeSpent" value="24842000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1366" height="700" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
       <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="1" weight="0.32954547" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.47948718" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.47795415" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.0" />
-      <window_info anchor="right" id="Database" order="3" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17651515" />
+      <window_info anchor="right" id="Database" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
       <window_info id="UI Designer" order="2" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -233,6 +315,11 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -242,13 +329,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JS/GameController.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/CSS/Style.css">
       <provider selected="true" editor-type-id="text-editor">
@@ -344,27 +425,66 @@
     <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/CSS/homecss.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/cat-cartoon-wallpaper-hd-001.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/images.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/kisspng-fastpitch-softball-cartoon-baseball-clip-art-cartoon-softball-5a75a90f994a64.6794191615176604316279.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/kisspng-bob-the-minion-sticker-minions-drawing-the-walt-di-minion-5abb7670b77238.1293043215222349927514.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/preview-637482E3duBV7cp-low_0014.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/minions-wallpapers-29741-6873185.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/minions-wallpaper-7.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="8505" column="4" selection-start-line="8505" selection-start-column="4" selection-end-line="8505" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Home Page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/CSS/Style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="68" column="19" selection-start-line="68" selection-start-column="19" selection-end-line="68" selection-end-column="19" />
+        <state relative-caret-position="452">
+          <caret line="74" column="19" lean-forward="true" selection-start-line="74" selection-start-column="19" selection-end-line="74" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-144">
-          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+        <state relative-caret-position="435">
+          <caret line="29" column="19" lean-forward="true" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JS/GameController.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2715">
-          <caret line="232" lean-forward="true" selection-start-line="232" selection-end-line="232" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state relative-caret-position="363">
+          <caret line="244" column="72" selection-start-line="244" selection-start-column="72" selection-end-line="244" selection-end-column="72" />
         </state>
       </provider>
     </entry>

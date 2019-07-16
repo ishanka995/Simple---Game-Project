@@ -1,6 +1,6 @@
-/*Arshad Muhammed*/
 
-$(function () {
+
+function fff() {
 
     var anim_id;
 
@@ -45,6 +45,7 @@ $(function () {
     var move_left1 = false;
 
     var who_won;
+
     /*dsdsdsdsdsds*/
 
 
@@ -69,8 +70,7 @@ $(function () {
                 right_left_angle = Math.abs((pleft - bleft)) / 7; //console.log(right_left_angle);
                 bird_go = 'up';
 
-            } else
-            if (parseInt(bird.css('left')) <= 0) {
+            } else if (parseInt(bird.css('left')) <= 0) {
 
                 bird_right_left = 'right';
 
@@ -150,7 +150,6 @@ $(function () {
     });
 
 
-
     $(document).on('keyup', function (e) {
         var key = e.keyCode;
         if (key === 37 && game_over === false) {
@@ -189,9 +188,6 @@ $(function () {
     }
 
 
-
-
-
     function stop_the_game() {
 
         cancelAnimationFrame(anim_id);
@@ -206,8 +202,10 @@ $(function () {
     }
 
     $(document).on('click', '#winner', function () {
-        location.reload();
+        location.reload();// this allows to restart
     });
+
+
 
     function collision($div1, $div2) {
         var x1 = $div1.offset().left;
@@ -228,5 +226,26 @@ $(function () {
     }
 
 
+}
 
-});
+$('#yy').click(function () {
+
+    setTimeout(fff,3100)
+    timer();
+
+
+})
+
+var timeleft = 3;
+function timer() {
+
+
+    var downloadTimer = setInterval(function () {
+        document.getElementById("countdown").innerHTML = timeleft + " seconds remaining";
+        timeleft -= 1;
+        if (timeleft <= 0) {
+            clearInterval(downloadTimer);
+            document.getElementById("countdown").innerHTML = "Here You go!!!"
+        }
+    }, 1000);
+}
