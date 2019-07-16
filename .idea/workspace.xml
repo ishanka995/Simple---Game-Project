@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2eeff59-5f91-4d93-9c10-2c3a30c8eed7" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/CSS/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/GameController.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/GameController.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,10 +14,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
+            <state relative-caret-position="-144">
               <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
             </state>
           </provider>
@@ -32,9 +32,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GameController.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="GameController.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/JS/GameController.js">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -54,9 +58,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/JS/GameController.js" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/CSS/Style.css" />
+        <option value="$PROJECT_DIR$/JS/GameController.js" />
       </list>
     </option>
   </component>
@@ -181,12 +185,12 @@
       <workItem from="1563182201541" duration="47000" />
       <workItem from="1563182439478" duration="973000" />
       <workItem from="1563183485755" duration="1252000" />
-      <workItem from="1563267337549" duration="1384000" />
+      <workItem from="1563267337549" duration="1746000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10277000" />
+    <option name="totallyTimeSpent" value="10639000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="606" y="118" width="596" height="523" extended-state="0" />
@@ -332,9 +336,6 @@
     <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/JS/GameController.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/CSS/Style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="680">
@@ -344,8 +345,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
+        <state relative-caret-position="-144">
           <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS/GameController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
         </state>
       </provider>
     </entry>
