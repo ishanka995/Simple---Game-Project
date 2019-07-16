@@ -35,8 +35,8 @@
       <file leaf-file-name="GameController.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/JS/GameController.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+            <state relative-caret-position="305">
+              <caret line="35" selection-start-line="35" selection-end-line="35" />
             </state>
           </provider>
         </entry>
@@ -185,12 +185,12 @@
       <workItem from="1563182201541" duration="47000" />
       <workItem from="1563182439478" duration="973000" />
       <workItem from="1563183485755" duration="1252000" />
-      <workItem from="1563267337549" duration="1746000" />
+      <workItem from="1563267337549" duration="3705000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10639000" />
+    <option name="totallyTimeSpent" value="12598000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="606" y="118" width="596" height="523" extended-state="0" />
@@ -352,8 +352,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/JS/GameController.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+        <state relative-caret-position="305">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
         </state>
       </provider>
     </entry>
