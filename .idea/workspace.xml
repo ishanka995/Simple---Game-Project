@@ -2,22 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2eeff59-5f91-4d93-9c10-2c3a30c8eed7" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/CSS/homecss.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Home Page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/321103.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/444287004.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/46585bcf8acc040.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/586614427d90850fc3ce2a63.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/600x600bb.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/645987.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/92GUYO.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/cat-cartoon-wallpaper-hd-001.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/images.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/kisspng-bob-the-minion-sticker-minions-drawing-the-walt-di-minion-5abb7670b77238.1293043215222349927514.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/kisspng-fastpitch-softball-cartoon-baseball-clip-art-cartoon-softball-5a75a90f994a64.6794191615176604316279.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/minions-wallpaper-7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/minions-wallpapers-29741-6873185.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/preview-637482E3duBV7cp-low_0014.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/1920x1080-navy-blue-solid-color-background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/19556-abstract-blue-white-geometric-square-background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/5-underwater-shipwreck-background-cartoon-clipart.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/61aEuDh3tZL._SX425_.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/6z67ePy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/8856377e03ebd40.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/blue-abstract-moving-flowing-waves-on-white-background-blurred-smooth-design-video-animation-ultra-hd-4k-3840x2160_rffdhgnp_thumbnail-full05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/d5cnzvm-de8721b5-faa8-402b-8890-210fbcf80112.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/giphy.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/maxresdefault.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tenor.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/vector-blue-squares-abstract-background-geometric.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSS/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JS/GameController.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/GameController.js" afterDir="false" />
@@ -36,66 +32,36 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="19" lean-forward="true" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
+            <state relative-caret-position="317">
+              <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+              <folding>
+                <element signature="n#style#0;n#button#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Style.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CSS/Style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="452">
-              <caret line="74" column="19" lean-forward="true" selection-start-line="74" selection-start-column="19" selection-end-line="74" selection-end-column="19" />
+            <state relative-caret-position="258">
+              <caret line="58" column="71" selection-start-line="58" selection-start-column="71" selection-end-line="58" selection-end-column="71" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Home Page.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Home Page.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GameController.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="GameController.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JS/GameController.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="363">
-              <caret line="244" column="72" selection-start-line="244" selection-start-column="72" selection-end-line="244" selection-end-column="72" />
+            <state relative-caret-position="813">
+              <caret line="233" column="10" selection-start-line="233" selection-start-column="10" selection-end-line="233" selection-end-column="10" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="kisspng-bob-the-minion-sticker-minions-drawing-the-walt-di-minion-5abb7670b77238.1293043215222349927514.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/kisspng-bob-the-minion-sticker-minions-drawing-the-walt-di-minion-5abb7670b77238.1293043215222349927514.jpg">
-          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file leaf-file-name="kisspng-fastpitch-softball-cartoon-baseball-clip-art-cartoon-softball-5a75a90f994a64.6794191615176604316279.jpg" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/images/kisspng-fastpitch-softball-cartoon-baseball-clip-art-cartoon-softball-5a75a90f994a64.6794191615176604316279.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file leaf-file-name="minions-wallpaper-7.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/minions-wallpaper-7.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file leaf-file-name="minions-wallpapers-29741-6873185.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/minions-wallpapers-29741-6873185.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file leaf-file-name="preview-637482E3duBV7cp-low_0014.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/preview-637482E3duBV7cp-low_0014.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file leaf-file-name="images.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/images.png">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
@@ -123,9 +89,9 @@
       <list>
         <option value="$PROJECT_DIR$/CSS/homecss.css" />
         <option value="$PROJECT_DIR$/Home Page.html" />
-        <option value="$PROJECT_DIR$/CSS/Style.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/JS/GameController.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/CSS/Style.css" />
       </list>
     </option>
   </component>
@@ -171,6 +137,16 @@
               <item name="Jquery game" type="b2602c69:ProjectViewProjectNode" />
               <item name="Jquery game" type="462c0819:PsiDirectoryNode" />
               <item name="CSS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Jquery game" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Jquery game" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Jquery game" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Jquery game" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Jquery game" type="b2602c69:ProjectViewProjectNode" />
@@ -269,12 +245,12 @@
       <workItem from="1563182201541" duration="47000" />
       <workItem from="1563182439478" duration="973000" />
       <workItem from="1563183485755" duration="1252000" />
-      <workItem from="1563267337549" duration="15949000" />
+      <workItem from="1563267337549" duration="25944000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24842000" />
+    <option name="totallyTimeSpent" value="34837000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1366" height="700" extended-state="6" />
@@ -308,6 +284,35 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17651515" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.47795415" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Maven Projects" order="1" weight="0.32954547" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -317,7 +322,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="2" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -325,6 +330,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
           <caret line="38" column="7" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -432,27 +441,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/cat-cartoon-wallpaper-hd-001.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/images.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/kisspng-fastpitch-softball-cartoon-baseball-clip-art-cartoon-softball-5a75a90f994a64.6794191615176604316279.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/kisspng-bob-the-minion-sticker-minions-drawing-the-walt-di-minion-5abb7670b77238.1293043215222349927514.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/preview-637482E3duBV7cp-low_0014.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/minions-wallpapers-29741-6873185.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/minions-wallpaper-7.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -467,24 +455,85 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CSS/Style.css">
+    <entry file="file://$PROJECT_DIR$/images/600x600bb.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/46585bcf8acc040.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/kisspng-bob-the-minion-sticker-minions-drawing-the-walt-di-minion-5abb7670b77238.1293043215222349927514.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/images.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/8856377e03ebd40.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/444287004.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/586614427d90850fc3ce2a63.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/cat-cartoon-wallpaper-hd-001.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/645987.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/321103.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/5-underwater-shipwreck-background-cartoon-clipart.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/preview-637482E3duBV7cp-low_0014.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/minions-wallpapers-29741-6873185.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/kisspng-fastpitch-softball-cartoon-baseball-clip-art-cartoon-softball-5a75a90f994a64.6794191615176604316279.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/maxresdefault.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/minions-wallpaper-7.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/6z67ePy.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/61aEuDh3tZL._SX425_.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/92GUYO.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS/GameController.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="452">
-          <caret line="74" column="19" lean-forward="true" selection-start-line="74" selection-start-column="19" selection-end-line="74" selection-end-column="19" />
+        <state relative-caret-position="813">
+          <caret line="233" column="10" selection-start-line="233" selection-start-column="10" selection-end-line="233" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="19" lean-forward="true" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
+        <state relative-caret-position="317">
+          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+          <folding>
+            <element signature="n#style#0;n#button#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JS/GameController.js">
+    <entry file="file://$PROJECT_DIR$/CSS/Style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="244" column="72" selection-start-line="244" selection-start-column="72" selection-end-line="244" selection-end-column="72" />
+        <state relative-caret-position="258">
+          <caret line="58" column="71" selection-start-line="58" selection-start-column="71" selection-end-line="58" selection-end-column="71" />
         </state>
       </provider>
     </entry>

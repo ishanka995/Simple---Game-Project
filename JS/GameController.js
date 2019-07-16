@@ -228,24 +228,14 @@ function fff() {
 
 }
 
-$('#yy').click(function () {
-
-    setTimeout(fff,3100)
-    timer();
 
 
+$('#yyy').click(function () {
+    fff();
 })
 
-var timeleft = 3;
-function timer() {
-
-
-    var downloadTimer = setInterval(function () {
-        document.getElementById("countdown").innerHTML = timeleft + " seconds remaining";
-        timeleft -= 1;
-        if (timeleft <= 0) {
-            clearInterval(downloadTimer);
-            document.getElementById("countdown").innerHTML = "Here You go!!!"
-        }
-    }, 1000);
-}
+$(document).ready(function() {
+    $('#yyy').on('click', function() {
+        $(this).hide();
+    });
+});
